@@ -7,4 +7,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1174-immediate-food-delivery-ii](https://github.com/priyanshudas00/LeetCode-SQL-50-Practice-Solutions/tree/master/1174-immediate-food-delivery-ii) |
+| [1757-recyclable-and-low-fat-products](https://github.com/priyanshudas00/LeetCode-SQL-50-Practice-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
